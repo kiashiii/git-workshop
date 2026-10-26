@@ -1,3 +1,3 @@
 # My Git Journey
-I'm learning Git and GitHub.
-My goal is to learn collaborative development
+## About Me 
+I enjoy learning new things.
